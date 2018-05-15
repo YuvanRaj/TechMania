@@ -35,20 +35,30 @@
 					    <span><b><p>Enter the Principle:</p></b></span>
 					    <input type="text" min="0" ng-model="requestParam.principle" required>
 					</td>				
-                </tr>
-                <tr>
+               
+                
+                
 	                <td width="25%">
 					    <span><b><p>Enter the Interest:</p></b></span>
 					    <input type="text" min="0" ng-model="requestParam.interestRate" required>
 					</td>				
-                </tr> 
-                <tr>
+                 
+                
 	                <td width="25%">
-					    <span><b><p>Enter the Tenure:</p></b></span>
+					    <span><b><p>Enter the Tenure(Years):</p></b></span>
 					    <input type="text" min="0" ng-model="requestParam.tenure" required>
-					</td>				
-                </tr>                
+					</td>
+                 </tr>
+                 <tr>
+                 </tr>
+                 <tr>
+                   <td align="center">
+                 	<p><b>EMI Payable (Per Month)<b></b></p>
+                 	{{constantEmi}}
+                 	</td>
+                 </tr>
             </div>
+            
         </table>
     </div>
    <br><br>

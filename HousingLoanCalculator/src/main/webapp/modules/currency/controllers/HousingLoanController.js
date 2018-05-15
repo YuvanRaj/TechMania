@@ -29,6 +29,7 @@ $scope.getHousingLoan=function(requestParam) {
     data: requestParam,
     headers: {'Content-Type': 'application/json'}
 }).success(function (data, status, headers, config) {
+	$scope.constantEmi = data[0].constantEmi;
 	$scope.loanDetailList = data;
 }).error(function (data, status, headers, config) {
     $scope.status = status;
@@ -57,6 +58,9 @@ $scope.gridOptions = {
 	}, {
 		field: 'principle',
 		displayName: 'Principle Paid By Year'
+	},{
+		field: 'closingBalance',
+		displayName: 'Closing Balance'
 	}],
 	enablePaging: true,
 	showFooter: true,

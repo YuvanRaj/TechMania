@@ -8,6 +8,15 @@ public class HousingLoanInfo {
 	private Double interest;
 	private Double principle;
 	private Double closingBalance;
+	private Double constantEmi;
+
+	public Double getConstantEmi() {
+		return constantEmi;
+	}
+
+	public void setConstantEmi(Double constantEmi) {
+		this.constantEmi = constantEmi;
+	}
 
 	public Double getOpeningBalance() {
 		return openingBalance;
