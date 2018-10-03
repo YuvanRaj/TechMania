@@ -5,7 +5,7 @@ import java.util.Arrays;
 public class MissingInteger {
 
 	public static void main(String[] args) {
-		int[] A = { -1, -3 };
+		int[] A = {-1,-3};
 		System.out.println(solution(A));
 	}
 

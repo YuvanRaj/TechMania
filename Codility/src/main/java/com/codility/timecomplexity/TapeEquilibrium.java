@@ -3,7 +3,7 @@ package com.codility.timecomplexity;
 public class TapeEquilibrium {
 
 	public static void main(String[] args) {
-		int[] A = {3,1,2,4,3};
+		int[] A = {8,24,3,20,1,17};
 
 		System.out.println(printMinDiff(A));
 
