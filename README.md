@@ -1,2 +1,2 @@
 # TechMania
-Cargo Pricing - Angular, Spring, Data Structures and Algoritham , Big Data
+Complete Package of FrontEnd,BackEnd,DataBase,Spring
