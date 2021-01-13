@@ -1,0 +1,791 @@
+2020-05-25 16:08:42,954 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader prepareLandingPageDropDowns starts*********
+2020-05-25 16:08:42,969 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader deleteFileIfExist starts*********
+2020-05-25 16:08:42,985 ERROR com.techmania.remoteservice.util.StaticCacheLoader [main] ************File is Successsfully deleted*********
+2020-05-25 16:08:42,985 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader deleteFileIfExist ends*********
+2020-05-25 16:08:42,985 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader loadLandingPageDropDowns starts*********
+2020-05-25 16:08:42,985 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader populateEducationLevelDropDowns starts*********
+2020-05-25 16:08:42,985 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader prepareStaticJsonForDropDowns starts*********
+2020-05-25 16:08:43,016 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader prepareStaticJsonForDropDowns ends*********
+2020-05-25 16:08:43,016 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader populateEducationLevelDropDowns ends*********
+2020-05-25 16:08:43,016 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader populateGraducationYearDropDowns starts*********
+2020-05-25 16:08:43,016 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader prepareStaticJsonForDropDowns starts*********
+2020-05-25 16:08:43,016 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader prepareStaticJsonForDropDowns ends*********
+2020-05-25 16:08:43,016 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader populateGraducationYearDropDowns ends*********
+2020-05-25 16:08:43,016 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader populateCountryDropDowns starts*********
+2020-05-25 16:08:43,016 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader prepareStaticJsonForDropDowns starts*********
+2020-05-25 16:08:43,032 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader prepareStaticJsonForDropDowns ends*********
+2020-05-25 16:08:43,032 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader populateCountryDropDowns ends*********
+2020-05-25 16:08:43,032 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader populateStateDropDowns starts*********
+2020-05-25 16:08:43,032 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader prepareStaticJsonForDropDowns starts*********
+2020-05-25 16:08:43,032 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader prepareStaticJsonForDropDowns ends*********
+2020-05-25 16:08:43,032 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader populateStateDropDowns ends*********
+2020-05-25 16:08:43,032 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader populateClassTimingDropDowns starts*********
+2020-05-25 16:08:43,032 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader prepareStaticJsonForDropDowns starts*********
+2020-05-25 16:08:43,032 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader prepareStaticJsonForDropDowns ends*********
+2020-05-25 16:08:43,032 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader populateClassTimingDropDowns ends*********
+2020-05-25 16:08:43,032 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader populateMilitaryAffiDropDowns starts*********
+2020-05-25 16:08:43,032 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader prepareStaticJsonForDropDowns starts*********
+2020-05-25 16:08:43,032 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader prepareStaticJsonForDropDowns ends*********
+2020-05-25 16:08:43,032 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader populateMilitaryAffiDropDowns ends*********
+2020-05-25 16:08:43,032 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader loadLandingPageDropDowns ends*********
+2020-05-25 16:08:43,032 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader prepareStaticJsonForDropDowns starts*********
+2020-05-25 16:08:43,251 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader prepareStaticJsonForDropDowns ends*********
+2020-05-25 16:08:43,251 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader prepareLandingPageDropDowns ends*********
+2020-05-25 16:08:43,532 INFO com.techmania.remoteservice.RemoteserviceApplication [main] Starting RemoteserviceApplication on DESKTOP-IBCBLCE with PID 4472 (D:\Development\workspace\freelancing\edudir\api\remoteservice\target\classes started by dell in D:\Development\workspace\freelancing\edudir\api\remoteservice)
+2020-05-25 16:08:43,547 INFO com.techmania.remoteservice.RemoteserviceApplication [main] No active profile set, falling back to default profiles: default
+2020-05-25 16:08:49,016 INFO com.techmania.remoteservice.RemoteserviceApplication [main] Started RemoteserviceApplication in 6.724 seconds (JVM running for 8.51)
+2020-05-25 16:08:49,016 INFO com.techmania.remoteservice.RemoteserviceApplication [main] ************RemoteserviceApplication ends*******
+2020-05-25 16:11:09,558 INFO com.techmania.remoteservice.controllers.LandingPageDropDownController [http-nio-8080-exec-1] **************LandingPageDropDownController.getLandingPageDropDowns**************
+2020-05-25 16:11:09,558 INFO com.techmania.remoteservice.util.LandingPageDropDownHelper [http-nio-8080-exec-1] **************LandingPageDropDownHelper.getDropDownValueFromJson starts**************
+2020-05-25 16:11:09,586 INFO com.techmania.remoteservice.util.LandingPageDropDownHelper [http-nio-8080-exec-1] **************LandingPageDropDownHelper.getDropDownValueFromJson ends**************
+2020-05-28 10:27:55,177 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader prepareLandingPageDropDowns starts*********
+2020-05-28 10:27:55,232 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader deleteFileIfExist starts*********
+2020-05-28 10:27:55,236 ERROR com.techmania.remoteservice.util.StaticCacheLoader [main] ************File is Successsfully deleted*********
+2020-05-28 10:27:55,237 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader deleteFileIfExist ends*********
+2020-05-28 10:27:55,239 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader loadLandingPageDropDowns starts*********
+2020-05-28 10:27:55,239 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader populateEducationLevelDropDowns starts*********
+2020-05-28 10:27:55,239 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader prepareStaticJsonForDropDowns starts*********
+2020-05-28 10:27:55,281 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader prepareStaticJsonForDropDowns ends*********
+2020-05-28 10:27:55,281 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader populateEducationLevelDropDowns ends*********
+2020-05-28 10:27:55,282 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader populateGraducationYearDropDowns starts*********
+2020-05-28 10:27:55,282 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader prepareStaticJsonForDropDowns starts*********
+2020-05-28 10:27:55,288 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader prepareStaticJsonForDropDowns ends*********
+2020-05-28 10:27:55,289 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader populateGraducationYearDropDowns ends*********
+2020-05-28 10:27:55,289 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader populateCountryDropDowns starts*********
+2020-05-28 10:27:55,289 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader prepareStaticJsonForDropDowns starts*********
+2020-05-28 10:27:55,301 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader prepareStaticJsonForDropDowns ends*********
+2020-05-28 10:27:55,302 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader populateCountryDropDowns ends*********
+2020-05-28 10:27:55,302 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader populateStateDropDowns starts*********
+2020-05-28 10:27:55,302 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader prepareStaticJsonForDropDowns starts*********
+2020-05-28 10:27:55,305 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader prepareStaticJsonForDropDowns ends*********
+2020-05-28 10:27:55,305 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader populateStateDropDowns ends*********
+2020-05-28 10:27:55,306 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader populateClassTimingDropDowns starts*********
+2020-05-28 10:27:55,306 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader prepareStaticJsonForDropDowns starts*********
+2020-05-28 10:27:55,307 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader prepareStaticJsonForDropDowns ends*********
+2020-05-28 10:27:55,307 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader populateClassTimingDropDowns ends*********
+2020-05-28 10:27:55,308 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader populateMilitaryAffiDropDowns starts*********
+2020-05-28 10:27:55,308 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader prepareStaticJsonForDropDowns starts*********
+2020-05-28 10:27:55,310 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader prepareStaticJsonForDropDowns ends*********
+2020-05-28 10:27:55,310 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader populateMilitaryAffiDropDowns ends*********
+2020-05-28 10:27:55,310 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader loadLandingPageDropDowns ends*********
+2020-05-28 10:27:55,311 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader prepareStaticJsonForDropDowns starts*********
+2020-05-28 10:27:55,422 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader prepareStaticJsonForDropDowns ends*********
+2020-05-28 10:27:55,422 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader prepareLandingPageDropDowns ends*********
+2020-05-28 10:27:55,669 INFO com.techmania.remoteservice.RemoteserviceApplication [main] Starting RemoteserviceApplication on DESKTOP-IBCBLCE with PID 8924 (D:\Development\workspace\freelancing\edudir\api\remoteservice\target\classes started by dell in D:\Development\workspace\freelancing\edudir\api\remoteservice)
+2020-05-28 10:27:55,671 INFO com.techmania.remoteservice.RemoteserviceApplication [main] No active profile set, falling back to default profiles: default
+2020-05-28 10:27:58,603 INFO com.techmania.remoteservice.RemoteserviceApplication [main] Started RemoteserviceApplication in 4.166 seconds (JVM running for 5.909)
+2020-05-28 10:27:58,605 INFO com.techmania.remoteservice.RemoteserviceApplication [main] ************RemoteserviceApplication ends*******
+2020-05-28 10:28:19,737 INFO com.techmania.remoteservice.controllers.LandingPageDropDownController [http-nio-8080-exec-1] **************LandingPageDropDownController.getLandingPageDropDowns**************
+2020-05-28 10:28:19,738 INFO com.techmania.remoteservice.util.LandingPageDropDownHelper [http-nio-8080-exec-1] **************LandingPageDropDownHelper.getDropDownValueFromJson starts**************
+2020-05-28 10:28:19,766 INFO com.techmania.remoteservice.util.LandingPageDropDownHelper [http-nio-8080-exec-1] **************LandingPageDropDownHelper.getDropDownValueFromJson ends**************
+2020-07-05 10:41:18,187 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader prepareLandingPageDropDowns starts*********
+2020-07-05 10:41:18,207 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader deleteFileIfExist starts*********
+2020-07-05 10:41:18,209 ERROR com.techmania.remoteservice.util.StaticCacheLoader [main] ************File is Successsfully deleted*********
+2020-07-05 10:41:18,209 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader deleteFileIfExist ends*********
+2020-07-05 10:41:18,210 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader loadLandingPageDropDowns starts*********
+2020-07-05 10:41:18,211 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader populateEducationLevelDropDowns starts*********
+2020-07-05 10:41:18,211 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader prepareStaticJsonForDropDowns starts*********
+2020-07-05 10:41:18,252 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader prepareStaticJsonForDropDowns ends*********
+2020-07-05 10:41:18,252 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader populateEducationLevelDropDowns ends*********
+2020-07-05 10:41:18,252 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader populateGraducationYearDropDowns starts*********
+2020-07-05 10:41:18,253 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader prepareStaticJsonForDropDowns starts*********
+2020-07-05 10:41:18,257 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader prepareStaticJsonForDropDowns ends*********
+2020-07-05 10:41:18,257 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader populateGraducationYearDropDowns ends*********
+2020-07-05 10:41:18,257 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader populateCountryDropDowns starts*********
+2020-07-05 10:41:18,258 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader prepareStaticJsonForDropDowns starts*********
+2020-07-05 10:41:18,266 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader prepareStaticJsonForDropDowns ends*********
+2020-07-05 10:41:18,267 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader populateCountryDropDowns ends*********
+2020-07-05 10:41:18,267 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader populateStateDropDowns starts*********
+2020-07-05 10:41:18,267 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader prepareStaticJsonForDropDowns starts*********
+2020-07-05 10:41:18,270 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader prepareStaticJsonForDropDowns ends*********
+2020-07-05 10:41:18,270 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader populateStateDropDowns ends*********
+2020-07-05 10:41:18,271 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader populateClassTimingDropDowns starts*********
+2020-07-05 10:41:18,271 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader prepareStaticJsonForDropDowns starts*********
+2020-07-05 10:41:18,272 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader prepareStaticJsonForDropDowns ends*********
+2020-07-05 10:41:18,272 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader populateClassTimingDropDowns ends*********
+2020-07-05 10:41:18,272 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader populateMilitaryAffiDropDowns starts*********
+2020-07-05 10:41:18,272 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader prepareStaticJsonForDropDowns starts*********
+2020-07-05 10:41:18,274 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader prepareStaticJsonForDropDowns ends*********
+2020-07-05 10:41:18,274 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader populateMilitaryAffiDropDowns ends*********
+2020-07-05 10:41:18,274 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader loadLandingPageDropDowns ends*********
+2020-07-05 10:41:18,274 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader prepareStaticJsonForDropDowns starts*********
+2020-07-05 10:41:18,369 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader prepareStaticJsonForDropDowns ends*********
+2020-07-05 10:41:18,369 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader prepareLandingPageDropDowns ends*********
+2020-07-05 10:41:18,492 INFO com.techmania.remoteservice.RemoteserviceApplication [main] Starting RemoteserviceApplication on DESKTOP-IBCBLCE with PID 13748 (D:\Development\workspace\freelancing\edudir\api\remoteservice\target\classes started by dell in D:\Development\workspace\freelancing\edudir\api\remoteservice)
+2020-07-05 10:41:18,493 INFO com.techmania.remoteservice.RemoteserviceApplication [main] No active profile set, falling back to default profiles: default
+2020-07-05 10:41:20,539 ERROR org.springframework.boot.diagnostics.LoggingFailureAnalysisReporter [main] 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Field restService in com.techmania.remoteservice.controllers.LandingPageDropDownController required a bean of type 'com.techmania.remoteservice.service.RestService' that could not be found.
+
+The injection point has the following annotations:
+	- @org.springframework.beans.factory.annotation.Autowired(required=true)
+
+
+Action:
+
+Consider defining a bean of type 'com.techmania.remoteservice.service.RestService' in your configuration.
+
+2020-07-05 10:41:57,206 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader prepareLandingPageDropDowns starts*********
+2020-07-05 10:41:57,210 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader deleteFileIfExist starts*********
+2020-07-05 10:41:57,211 ERROR com.techmania.remoteservice.util.StaticCacheLoader [main] ************File is Successsfully deleted*********
+2020-07-05 10:41:57,212 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader deleteFileIfExist ends*********
+2020-07-05 10:41:57,213 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader loadLandingPageDropDowns starts*********
+2020-07-05 10:41:57,213 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader populateEducationLevelDropDowns starts*********
+2020-07-05 10:41:57,213 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader prepareStaticJsonForDropDowns starts*********
+2020-07-05 10:41:57,606 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader prepareStaticJsonForDropDowns ends*********
+2020-07-05 10:41:57,607 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader populateEducationLevelDropDowns ends*********
+2020-07-05 10:41:57,607 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader populateGraducationYearDropDowns starts*********
+2020-07-05 10:41:57,608 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader prepareStaticJsonForDropDowns starts*********
+2020-07-05 10:41:57,620 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader prepareStaticJsonForDropDowns ends*********
+2020-07-05 10:41:57,620 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader populateGraducationYearDropDowns ends*********
+2020-07-05 10:41:57,621 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader populateCountryDropDowns starts*********
+2020-07-05 10:41:57,621 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader prepareStaticJsonForDropDowns starts*********
+2020-07-05 10:41:57,645 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader prepareStaticJsonForDropDowns ends*********
+2020-07-05 10:41:57,647 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader populateCountryDropDowns ends*********
+2020-07-05 10:41:57,647 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader populateStateDropDowns starts*********
+2020-07-05 10:41:57,647 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader prepareStaticJsonForDropDowns starts*********
+2020-07-05 10:41:57,652 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader prepareStaticJsonForDropDowns ends*********
+2020-07-05 10:41:57,652 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader populateStateDropDowns ends*********
+2020-07-05 10:41:57,653 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader populateClassTimingDropDowns starts*********
+2020-07-05 10:41:57,653 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader prepareStaticJsonForDropDowns starts*********
+2020-07-05 10:41:57,654 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader prepareStaticJsonForDropDowns ends*********
+2020-07-05 10:41:57,654 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader populateClassTimingDropDowns ends*********
+2020-07-05 10:41:57,655 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader populateMilitaryAffiDropDowns starts*********
+2020-07-05 10:41:57,655 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader prepareStaticJsonForDropDowns starts*********
+2020-07-05 10:41:57,657 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader prepareStaticJsonForDropDowns ends*********
+2020-07-05 10:41:57,657 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader populateMilitaryAffiDropDowns ends*********
+2020-07-05 10:41:57,657 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader loadLandingPageDropDowns ends*********
+2020-07-05 10:41:57,657 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader prepareStaticJsonForDropDowns starts*********
+2020-07-05 10:41:57,762 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader prepareStaticJsonForDropDowns ends*********
+2020-07-05 10:41:57,763 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader prepareLandingPageDropDowns ends*********
+2020-07-05 10:41:57,937 INFO com.techmania.remoteservice.RemoteserviceApplication [main] Starting RemoteserviceApplication on DESKTOP-IBCBLCE with PID 12808 (D:\Development\workspace\freelancing\edudir\api\remoteservice\target\classes started by dell in D:\Development\workspace\freelancing\edudir\api\remoteservice)
+2020-07-05 10:41:57,939 INFO com.techmania.remoteservice.RemoteserviceApplication [main] No active profile set, falling back to default profiles: default
+2020-07-05 10:42:01,312 ERROR org.springframework.boot.diagnostics.LoggingFailureAnalysisReporter [main] 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Field restService in com.techmania.remoteservice.controllers.LandingPageDropDownController required a bean of type 'com.techmania.remoteservice.service.RestService' that could not be found.
+
+The injection point has the following annotations:
+	- @org.springframework.beans.factory.annotation.Autowired(required=true)
+
+
+Action:
+
+Consider defining a bean of type 'com.techmania.remoteservice.service.RestService' in your configuration.
+
+2020-07-05 10:42:13,030 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader prepareLandingPageDropDowns starts*********
+2020-07-05 10:42:13,060 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader deleteFileIfExist starts*********
+2020-07-05 10:42:13,063 ERROR com.techmania.remoteservice.util.StaticCacheLoader [main] ************File is Successsfully deleted*********
+2020-07-05 10:42:13,068 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader deleteFileIfExist ends*********
+2020-07-05 10:42:13,071 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader loadLandingPageDropDowns starts*********
+2020-07-05 10:42:13,072 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader populateEducationLevelDropDowns starts*********
+2020-07-05 10:42:13,072 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader prepareStaticJsonForDropDowns starts*********
+2020-07-05 10:42:24,310 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader prepareStaticJsonForDropDowns ends*********
+2020-07-05 10:42:24,310 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader populateEducationLevelDropDowns ends*********
+2020-07-05 10:42:24,310 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader populateGraducationYearDropDowns starts*********
+2020-07-05 10:42:24,310 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader prepareStaticJsonForDropDowns starts*********
+2020-07-05 10:42:28,454 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader prepareStaticJsonForDropDowns ends*********
+2020-07-05 10:42:28,456 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader populateGraducationYearDropDowns ends*********
+2020-07-05 10:42:28,457 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader populateCountryDropDowns starts*********
+2020-07-05 10:42:28,457 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader prepareStaticJsonForDropDowns starts*********
+2020-07-05 10:42:28,507 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader prepareStaticJsonForDropDowns ends*********
+2020-07-05 10:42:28,509 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader populateCountryDropDowns ends*********
+2020-07-05 10:42:28,509 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader populateStateDropDowns starts*********
+2020-07-05 10:42:28,510 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader prepareStaticJsonForDropDowns starts*********
+2020-07-05 10:42:28,518 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader prepareStaticJsonForDropDowns ends*********
+2020-07-05 10:42:28,518 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader populateStateDropDowns ends*********
+2020-07-05 10:42:28,518 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader populateClassTimingDropDowns starts*********
+2020-07-05 10:42:28,518 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader prepareStaticJsonForDropDowns starts*********
+2020-07-05 10:42:28,520 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader prepareStaticJsonForDropDowns ends*********
+2020-07-05 10:42:28,521 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader populateClassTimingDropDowns ends*********
+2020-07-05 10:42:28,521 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader populateMilitaryAffiDropDowns starts*********
+2020-07-05 10:42:28,521 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader prepareStaticJsonForDropDowns starts*********
+2020-07-05 10:42:28,522 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader prepareStaticJsonForDropDowns ends*********
+2020-07-05 10:42:28,522 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader populateMilitaryAffiDropDowns ends*********
+2020-07-05 10:42:28,523 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader loadLandingPageDropDowns ends*********
+2020-07-05 10:42:28,523 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader prepareStaticJsonForDropDowns starts*********
+2020-07-05 10:42:28,617 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader prepareStaticJsonForDropDowns ends*********
+2020-07-05 10:42:28,618 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader prepareLandingPageDropDowns ends*********
+2020-07-05 10:42:28,831 INFO com.techmania.remoteservice.RemoteserviceApplication [main] Starting RemoteserviceApplication on DESKTOP-IBCBLCE with PID 13480 (D:\Development\workspace\freelancing\edudir\api\remoteservice\target\classes started by dell in D:\Development\workspace\freelancing\edudir\api\remoteservice)
+2020-07-05 10:42:28,899 INFO com.techmania.remoteservice.RemoteserviceApplication [main] No active profile set, falling back to default profiles: default
+2020-07-05 10:42:36,512 ERROR org.springframework.boot.diagnostics.LoggingFailureAnalysisReporter [main] 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Field restService in com.techmania.remoteservice.controllers.LandingPageDropDownController required a bean of type 'com.techmania.remoteservice.service.RestService' that could not be found.
+
+The injection point has the following annotations:
+	- @org.springframework.beans.factory.annotation.Autowired(required=true)
+
+
+Action:
+
+Consider defining a bean of type 'com.techmania.remoteservice.service.RestService' in your configuration.
+
+2020-07-05 10:45:08,687 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader prepareLandingPageDropDowns starts*********
+2020-07-05 10:45:08,690 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader deleteFileIfExist starts*********
+2020-07-05 10:45:08,692 ERROR com.techmania.remoteservice.util.StaticCacheLoader [main] ************File is Successsfully deleted*********
+2020-07-05 10:45:08,692 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader deleteFileIfExist ends*********
+2020-07-05 10:45:08,693 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader loadLandingPageDropDowns starts*********
+2020-07-05 10:45:08,693 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader populateEducationLevelDropDowns starts*********
+2020-07-05 10:45:08,694 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader prepareStaticJsonForDropDowns starts*********
+2020-07-05 10:45:08,709 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader prepareStaticJsonForDropDowns ends*********
+2020-07-05 10:45:08,710 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader populateEducationLevelDropDowns ends*********
+2020-07-05 10:45:08,710 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader populateGraducationYearDropDowns starts*********
+2020-07-05 10:45:08,710 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader prepareStaticJsonForDropDowns starts*********
+2020-07-05 10:45:08,712 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader prepareStaticJsonForDropDowns ends*********
+2020-07-05 10:45:08,713 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader populateGraducationYearDropDowns ends*********
+2020-07-05 10:45:08,713 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader populateCountryDropDowns starts*********
+2020-07-05 10:45:08,713 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader prepareStaticJsonForDropDowns starts*********
+2020-07-05 10:45:08,719 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader prepareStaticJsonForDropDowns ends*********
+2020-07-05 10:45:08,719 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader populateCountryDropDowns ends*********
+2020-07-05 10:45:08,719 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader populateStateDropDowns starts*********
+2020-07-05 10:45:08,720 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader prepareStaticJsonForDropDowns starts*********
+2020-07-05 10:45:08,721 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader prepareStaticJsonForDropDowns ends*********
+2020-07-05 10:45:08,722 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader populateStateDropDowns ends*********
+2020-07-05 10:45:08,722 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader populateClassTimingDropDowns starts*********
+2020-07-05 10:45:08,722 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader prepareStaticJsonForDropDowns starts*********
+2020-07-05 10:45:08,723 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader prepareStaticJsonForDropDowns ends*********
+2020-07-05 10:45:08,723 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader populateClassTimingDropDowns ends*********
+2020-07-05 10:45:08,723 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader populateMilitaryAffiDropDowns starts*********
+2020-07-05 10:45:08,723 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader prepareStaticJsonForDropDowns starts*********
+2020-07-05 10:45:08,724 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader prepareStaticJsonForDropDowns ends*********
+2020-07-05 10:45:08,724 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader populateMilitaryAffiDropDowns ends*********
+2020-07-05 10:45:08,724 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader loadLandingPageDropDowns ends*********
+2020-07-05 10:45:08,724 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader prepareStaticJsonForDropDowns starts*********
+2020-07-05 10:45:08,776 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader prepareStaticJsonForDropDowns ends*********
+2020-07-05 10:45:08,776 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader prepareLandingPageDropDowns ends*********
+2020-07-05 10:45:08,884 INFO com.techmania.remoteservice.RemoteserviceApplication [main] Starting RemoteserviceApplication on DESKTOP-IBCBLCE with PID 13548 (D:\Development\workspace\freelancing\edudir\api\remoteservice\target\classes started by dell in D:\Development\workspace\freelancing\edudir\api\remoteservice)
+2020-07-05 10:45:08,885 INFO com.techmania.remoteservice.RemoteserviceApplication [main] No active profile set, falling back to default profiles: default
+2020-07-05 10:45:10,478 ERROR org.springframework.boot.diagnostics.LoggingFailureAnalysisReporter [main] 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Field restTemplate in com.techmania.remoteservice.service.impl.RestServiceImpl required a bean of type 'org.springframework.web.client.RestTemplate' that could not be found.
+
+The injection point has the following annotations:
+	- @org.springframework.beans.factory.annotation.Autowired(required=true)
+
+
+Action:
+
+Consider defining a bean of type 'org.springframework.web.client.RestTemplate' in your configuration.
+
+2020-07-05 10:45:37,907 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader prepareLandingPageDropDowns starts*********
+2020-07-05 10:45:37,914 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader deleteFileIfExist starts*********
+2020-07-05 10:45:37,915 ERROR com.techmania.remoteservice.util.StaticCacheLoader [main] ************File is Successsfully deleted*********
+2020-07-05 10:45:37,916 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader deleteFileIfExist ends*********
+2020-07-05 10:45:37,917 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader loadLandingPageDropDowns starts*********
+2020-07-05 10:45:37,918 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader populateEducationLevelDropDowns starts*********
+2020-07-05 10:45:37,918 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader prepareStaticJsonForDropDowns starts*********
+2020-07-05 10:45:37,932 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader prepareStaticJsonForDropDowns ends*********
+2020-07-05 10:45:37,932 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader populateEducationLevelDropDowns ends*********
+2020-07-05 10:45:37,932 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader populateGraducationYearDropDowns starts*********
+2020-07-05 10:45:37,932 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader prepareStaticJsonForDropDowns starts*********
+2020-07-05 10:45:37,935 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader prepareStaticJsonForDropDowns ends*********
+2020-07-05 10:45:37,936 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader populateGraducationYearDropDowns ends*********
+2020-07-05 10:45:37,936 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader populateCountryDropDowns starts*********
+2020-07-05 10:45:37,936 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader prepareStaticJsonForDropDowns starts*********
+2020-07-05 10:45:37,948 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader prepareStaticJsonForDropDowns ends*********
+2020-07-05 10:45:37,948 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader populateCountryDropDowns ends*********
+2020-07-05 10:45:37,948 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader populateStateDropDowns starts*********
+2020-07-05 10:45:37,948 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader prepareStaticJsonForDropDowns starts*********
+2020-07-05 10:45:37,950 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader prepareStaticJsonForDropDowns ends*********
+2020-07-05 10:45:37,950 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader populateStateDropDowns ends*********
+2020-07-05 10:45:37,950 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader populateClassTimingDropDowns starts*********
+2020-07-05 10:45:37,950 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader prepareStaticJsonForDropDowns starts*********
+2020-07-05 10:45:37,951 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader prepareStaticJsonForDropDowns ends*********
+2020-07-05 10:45:37,951 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader populateClassTimingDropDowns ends*********
+2020-07-05 10:45:37,952 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader populateMilitaryAffiDropDowns starts*********
+2020-07-05 10:45:37,952 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader prepareStaticJsonForDropDowns starts*********
+2020-07-05 10:45:37,953 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader prepareStaticJsonForDropDowns ends*********
+2020-07-05 10:45:37,953 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader populateMilitaryAffiDropDowns ends*********
+2020-07-05 10:45:37,954 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader loadLandingPageDropDowns ends*********
+2020-07-05 10:45:37,954 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader prepareStaticJsonForDropDowns starts*********
+2020-07-05 10:45:38,093 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader prepareStaticJsonForDropDowns ends*********
+2020-07-05 10:45:38,093 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader prepareLandingPageDropDowns ends*********
+2020-07-05 10:45:38,295 INFO com.techmania.remoteservice.RemoteserviceApplication [main] Starting RemoteserviceApplication on DESKTOP-IBCBLCE with PID 10412 (D:\Development\workspace\freelancing\edudir\api\remoteservice\target\classes started by dell in D:\Development\workspace\freelancing\edudir\api\remoteservice)
+2020-07-05 10:45:38,296 INFO com.techmania.remoteservice.RemoteserviceApplication [main] No active profile set, falling back to default profiles: default
+2020-07-05 10:45:46,930 ERROR org.springframework.boot.diagnostics.LoggingFailureAnalysisReporter [main] 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Field restTemplate in com.techmania.remoteservice.service.impl.RestServiceImpl required a bean of type 'org.springframework.web.client.RestTemplate' that could not be found.
+
+The injection point has the following annotations:
+	- @org.springframework.beans.factory.annotation.Autowired(required=true)
+
+
+Action:
+
+Consider defining a bean of type 'org.springframework.web.client.RestTemplate' in your configuration.
+
+2020-07-05 10:51:57,570 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader prepareLandingPageDropDowns starts*********
+2020-07-05 10:51:57,576 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader deleteFileIfExist starts*********
+2020-07-05 10:51:57,577 ERROR com.techmania.remoteservice.util.StaticCacheLoader [main] ************File is Successsfully deleted*********
+2020-07-05 10:51:57,577 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader deleteFileIfExist ends*********
+2020-07-05 10:51:57,578 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader loadLandingPageDropDowns starts*********
+2020-07-05 10:51:57,579 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader populateEducationLevelDropDowns starts*********
+2020-07-05 10:51:57,579 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader prepareStaticJsonForDropDowns starts*********
+2020-07-05 10:51:57,595 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader prepareStaticJsonForDropDowns ends*********
+2020-07-05 10:51:57,595 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader populateEducationLevelDropDowns ends*********
+2020-07-05 10:51:57,595 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader populateGraducationYearDropDowns starts*********
+2020-07-05 10:51:57,595 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader prepareStaticJsonForDropDowns starts*********
+2020-07-05 10:51:57,599 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader prepareStaticJsonForDropDowns ends*********
+2020-07-05 10:51:57,599 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader populateGraducationYearDropDowns ends*********
+2020-07-05 10:51:57,600 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader populateCountryDropDowns starts*********
+2020-07-05 10:51:57,600 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader prepareStaticJsonForDropDowns starts*********
+2020-07-05 10:51:57,610 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader prepareStaticJsonForDropDowns ends*********
+2020-07-05 10:51:57,610 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader populateCountryDropDowns ends*********
+2020-07-05 10:51:57,610 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader populateStateDropDowns starts*********
+2020-07-05 10:51:57,610 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader prepareStaticJsonForDropDowns starts*********
+2020-07-05 10:51:57,615 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader prepareStaticJsonForDropDowns ends*********
+2020-07-05 10:51:57,615 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader populateStateDropDowns ends*********
+2020-07-05 10:51:57,615 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader populateClassTimingDropDowns starts*********
+2020-07-05 10:51:57,616 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader prepareStaticJsonForDropDowns starts*********
+2020-07-05 10:51:57,617 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader prepareStaticJsonForDropDowns ends*********
+2020-07-05 10:51:57,617 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader populateClassTimingDropDowns ends*********
+2020-07-05 10:51:57,617 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader populateMilitaryAffiDropDowns starts*********
+2020-07-05 10:51:57,617 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader prepareStaticJsonForDropDowns starts*********
+2020-07-05 10:51:57,620 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader prepareStaticJsonForDropDowns ends*********
+2020-07-05 10:51:57,620 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader populateMilitaryAffiDropDowns ends*********
+2020-07-05 10:51:57,620 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader loadLandingPageDropDowns ends*********
+2020-07-05 10:51:57,620 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader prepareStaticJsonForDropDowns starts*********
+2020-07-05 10:51:57,749 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader prepareStaticJsonForDropDowns ends*********
+2020-07-05 10:51:57,749 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader prepareLandingPageDropDowns ends*********
+2020-07-05 10:51:57,942 INFO com.techmania.remoteservice.RemoteserviceApplication [main] Starting RemoteserviceApplication on DESKTOP-IBCBLCE with PID 2972 (D:\Development\workspace\freelancing\edudir\api\remoteservice\target\classes started by dell in D:\Development\workspace\freelancing\edudir\api\remoteservice)
+2020-07-05 10:51:57,943 INFO com.techmania.remoteservice.RemoteserviceApplication [main] No active profile set, falling back to default profiles: default
+2020-07-05 10:52:01,251 ERROR org.springframework.boot.diagnostics.LoggingFailureAnalysisReporter [main] 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Field restTemplate in com.techmania.remoteservice.service.impl.RestServiceImpl required a bean of type 'org.springframework.web.client.RestTemplate' that could not be found.
+
+The injection point has the following annotations:
+	- @org.springframework.beans.factory.annotation.Autowired(required=true)
+
+
+Action:
+
+Consider defining a bean of type 'org.springframework.web.client.RestTemplate' in your configuration.
+
+2020-07-05 11:01:23,626 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader prepareLandingPageDropDowns starts*********
+2020-07-05 11:01:23,633 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader deleteFileIfExist starts*********
+2020-07-05 11:01:23,634 ERROR com.techmania.remoteservice.util.StaticCacheLoader [main] ************File is Successsfully deleted*********
+2020-07-05 11:01:23,634 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader deleteFileIfExist ends*********
+2020-07-05 11:01:23,635 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader loadLandingPageDropDowns starts*********
+2020-07-05 11:01:23,635 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader populateEducationLevelDropDowns starts*********
+2020-07-05 11:01:23,636 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader prepareStaticJsonForDropDowns starts*********
+2020-07-05 11:01:23,649 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader prepareStaticJsonForDropDowns ends*********
+2020-07-05 11:01:23,649 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader populateEducationLevelDropDowns ends*********
+2020-07-05 11:01:23,649 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader populateGraducationYearDropDowns starts*********
+2020-07-05 11:01:23,649 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader prepareStaticJsonForDropDowns starts*********
+2020-07-05 11:01:23,653 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader prepareStaticJsonForDropDowns ends*********
+2020-07-05 11:01:23,653 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader populateGraducationYearDropDowns ends*********
+2020-07-05 11:01:23,653 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader populateCountryDropDowns starts*********
+2020-07-05 11:01:23,653 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader prepareStaticJsonForDropDowns starts*********
+2020-07-05 11:01:23,660 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader prepareStaticJsonForDropDowns ends*********
+2020-07-05 11:01:23,661 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader populateCountryDropDowns ends*********
+2020-07-05 11:01:23,661 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader populateStateDropDowns starts*********
+2020-07-05 11:01:23,661 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader prepareStaticJsonForDropDowns starts*********
+2020-07-05 11:01:23,663 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader prepareStaticJsonForDropDowns ends*********
+2020-07-05 11:01:23,663 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader populateStateDropDowns ends*********
+2020-07-05 11:01:23,663 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader populateClassTimingDropDowns starts*********
+2020-07-05 11:01:23,665 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader prepareStaticJsonForDropDowns starts*********
+2020-07-05 11:01:23,667 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader prepareStaticJsonForDropDowns ends*********
+2020-07-05 11:01:23,668 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader populateClassTimingDropDowns ends*********
+2020-07-05 11:01:23,668 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader populateMilitaryAffiDropDowns starts*********
+2020-07-05 11:01:23,668 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader prepareStaticJsonForDropDowns starts*********
+2020-07-05 11:01:23,669 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader prepareStaticJsonForDropDowns ends*********
+2020-07-05 11:01:23,669 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader populateMilitaryAffiDropDowns ends*********
+2020-07-05 11:01:23,669 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader loadLandingPageDropDowns ends*********
+2020-07-05 11:01:23,669 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader prepareStaticJsonForDropDowns starts*********
+2020-07-05 11:01:23,808 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader prepareStaticJsonForDropDowns ends*********
+2020-07-05 11:01:23,809 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader prepareLandingPageDropDowns ends*********
+2020-07-05 11:01:24,004 INFO com.techmania.remoteservice.RemoteserviceApplication [main] Starting RemoteserviceApplication on DESKTOP-IBCBLCE with PID 10140 (D:\Development\workspace\freelancing\edudir\api\remoteservice\target\classes started by dell in D:\Development\workspace\freelancing\edudir\api\remoteservice)
+2020-07-05 11:01:24,005 INFO com.techmania.remoteservice.RemoteserviceApplication [main] No active profile set, falling back to default profiles: default
+2020-07-05 11:01:28,013 ERROR org.springframework.boot.diagnostics.LoggingFailureAnalysisReporter [main] 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Field restTemplate in com.techmania.remoteservice.service.impl.RestServiceImpl required a bean of type 'org.springframework.web.client.RestTemplate' that could not be found.
+
+The injection point has the following annotations:
+	- @org.springframework.beans.factory.annotation.Autowired(required=true)
+
+
+Action:
+
+Consider defining a bean of type 'org.springframework.web.client.RestTemplate' in your configuration.
+
+2020-07-05 11:36:22,956 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader prepareLandingPageDropDowns starts*********
+2020-07-05 11:36:22,963 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader deleteFileIfExist starts*********
+2020-07-05 11:36:22,965 ERROR com.techmania.remoteservice.util.StaticCacheLoader [main] ************File is Successsfully deleted*********
+2020-07-05 11:36:22,965 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader deleteFileIfExist ends*********
+2020-07-05 11:36:22,966 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader loadLandingPageDropDowns starts*********
+2020-07-05 11:36:22,966 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader populateEducationLevelDropDowns starts*********
+2020-07-05 11:36:22,966 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader prepareStaticJsonForDropDowns starts*********
+2020-07-05 11:36:22,980 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader prepareStaticJsonForDropDowns ends*********
+2020-07-05 11:36:22,980 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader populateEducationLevelDropDowns ends*********
+2020-07-05 11:36:22,980 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader populateGraducationYearDropDowns starts*********
+2020-07-05 11:36:22,980 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader prepareStaticJsonForDropDowns starts*********
+2020-07-05 11:36:22,983 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader prepareStaticJsonForDropDowns ends*********
+2020-07-05 11:36:22,983 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader populateGraducationYearDropDowns ends*********
+2020-07-05 11:36:22,984 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader populateCountryDropDowns starts*********
+2020-07-05 11:36:22,984 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader prepareStaticJsonForDropDowns starts*********
+2020-07-05 11:36:22,998 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader prepareStaticJsonForDropDowns ends*********
+2020-07-05 11:36:22,998 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader populateCountryDropDowns ends*********
+2020-07-05 11:36:22,998 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader populateStateDropDowns starts*********
+2020-07-05 11:36:22,998 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader prepareStaticJsonForDropDowns starts*********
+2020-07-05 11:36:23,008 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader prepareStaticJsonForDropDowns ends*********
+2020-07-05 11:36:23,008 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader populateStateDropDowns ends*********
+2020-07-05 11:36:23,008 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader populateClassTimingDropDowns starts*********
+2020-07-05 11:36:23,008 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader prepareStaticJsonForDropDowns starts*********
+2020-07-05 11:36:23,009 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader prepareStaticJsonForDropDowns ends*********
+2020-07-05 11:36:23,010 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader populateClassTimingDropDowns ends*********
+2020-07-05 11:36:23,010 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader populateMilitaryAffiDropDowns starts*********
+2020-07-05 11:36:23,010 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader prepareStaticJsonForDropDowns starts*********
+2020-07-05 11:36:23,011 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader prepareStaticJsonForDropDowns ends*********
+2020-07-05 11:36:23,011 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader populateMilitaryAffiDropDowns ends*********
+2020-07-05 11:36:23,011 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader loadLandingPageDropDowns ends*********
+2020-07-05 11:36:23,011 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader prepareStaticJsonForDropDowns starts*********
+2020-07-05 11:36:23,155 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader prepareStaticJsonForDropDowns ends*********
+2020-07-05 11:36:23,155 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader prepareLandingPageDropDowns ends*********
+2020-07-05 11:36:23,353 INFO com.techmania.remoteservice.RemoteserviceApplication [main] Starting RemoteserviceApplication on DESKTOP-IBCBLCE with PID 12356 (D:\Development\workspace\freelancing\edudir\api\remoteservice\target\classes started by dell in D:\Development\workspace\freelancing\edudir\api\remoteservice)
+2020-07-05 11:36:23,354 INFO com.techmania.remoteservice.RemoteserviceApplication [main] No active profile set, falling back to default profiles: default
+2020-07-05 11:36:27,500 INFO com.techmania.remoteservice.RemoteserviceApplication [main] Started RemoteserviceApplication in 5.004 seconds (JVM running for 6.221)
+2020-07-05 11:36:27,502 INFO com.techmania.remoteservice.RemoteserviceApplication [main] ************RemoteserviceApplication ends*******
+2020-07-05 11:37:30,235 INFO com.techmania.remoteservice.controllers.LandingPageDropDownController [http-nio-8080-exec-1] **************LandingPageDropDownController.getLandingPageDropDowns**************
+2020-07-05 11:37:30,236 INFO com.techmania.remoteservice.util.LandingPageDropDownHelper [http-nio-8080-exec-1] **************LandingPageDropDownHelper.getDropDownValueFromJson starts**************
+2020-07-05 11:37:39,227 INFO com.techmania.remoteservice.util.LandingPageDropDownHelper [http-nio-8080-exec-1] **************LandingPageDropDownHelper.getDropDownValueFromJson ends**************
+2020-07-05 11:37:53,852 INFO com.techmania.remoteservice.controllers.LandingPageDropDownController [http-nio-8080-exec-3] **************LandingPageDropDownController.getLandingPageDropDowns**************
+2020-07-05 11:37:53,853 INFO com.techmania.remoteservice.util.LandingPageDropDownHelper [http-nio-8080-exec-3] **************LandingPageDropDownHelper.getDropDownValueFromJson starts**************
+2020-07-05 11:38:00,157 INFO com.techmania.remoteservice.util.LandingPageDropDownHelper [http-nio-8080-exec-3] **************LandingPageDropDownHelper.getDropDownValueFromJson ends**************
+2020-07-05 11:39:44,434 ERROR org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/remoteservice].[dispatcherServlet] [http-nio-8080-exec-7] Servlet.service() for servlet [dispatcherServlet] in context with path [/remoteservice] threw exception [Request processing failed; nested exception is java.lang.NullPointerException] with root cause
+java.lang.NullPointerException: null
+	at com.techmania.remoteservice.service.impl.RestServiceImpl.postCall(RestServiceImpl.java:26)
+	at com.techmania.remoteservice.controllers.LandingPageDropDownController.getHousingLoanResponse(LandingPageDropDownController.java:59)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:190)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:138)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:105)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:879)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:793)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1040)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:943)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:898)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:634)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:741)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:541)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:373)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:868)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1590)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Unknown Source)
+2020-07-05 11:39:59,182 ERROR org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/remoteservice].[dispatcherServlet] [http-nio-8080-exec-9] Servlet.service() for servlet [dispatcherServlet] in context with path [/remoteservice] threw exception [Request processing failed; nested exception is java.lang.NullPointerException] with root cause
+java.lang.NullPointerException: null
+	at com.techmania.remoteservice.service.impl.RestServiceImpl.postCall(RestServiceImpl.java:26)
+	at com.techmania.remoteservice.controllers.LandingPageDropDownController.getHousingLoanResponse(LandingPageDropDownController.java:59)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:190)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:138)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:105)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:879)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:793)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1040)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:943)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:898)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:634)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:741)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:541)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:373)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:868)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1590)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Unknown Source)
+2020-07-05 11:41:44,810 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader prepareLandingPageDropDowns starts*********
+2020-07-05 11:41:44,815 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader deleteFileIfExist starts*********
+2020-07-05 11:41:44,816 ERROR com.techmania.remoteservice.util.StaticCacheLoader [main] ************File is Successsfully deleted*********
+2020-07-05 11:41:44,817 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader deleteFileIfExist ends*********
+2020-07-05 11:41:44,818 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader loadLandingPageDropDowns starts*********
+2020-07-05 11:41:44,818 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader populateEducationLevelDropDowns starts*********
+2020-07-05 11:41:44,818 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader prepareStaticJsonForDropDowns starts*********
+2020-07-05 11:41:44,838 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader prepareStaticJsonForDropDowns ends*********
+2020-07-05 11:41:44,838 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader populateEducationLevelDropDowns ends*********
+2020-07-05 11:41:44,838 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader populateGraducationYearDropDowns starts*********
+2020-07-05 11:41:44,839 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader prepareStaticJsonForDropDowns starts*********
+2020-07-05 11:41:44,843 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader prepareStaticJsonForDropDowns ends*********
+2020-07-05 11:41:44,843 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader populateGraducationYearDropDowns ends*********
+2020-07-05 11:41:44,843 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader populateCountryDropDowns starts*********
+2020-07-05 11:41:44,843 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader prepareStaticJsonForDropDowns starts*********
+2020-07-05 11:41:44,856 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader prepareStaticJsonForDropDowns ends*********
+2020-07-05 11:41:44,856 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader populateCountryDropDowns ends*********
+2020-07-05 11:41:44,856 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader populateStateDropDowns starts*********
+2020-07-05 11:41:44,856 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader prepareStaticJsonForDropDowns starts*********
+2020-07-05 11:41:44,860 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader prepareStaticJsonForDropDowns ends*********
+2020-07-05 11:41:44,860 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader populateStateDropDowns ends*********
+2020-07-05 11:41:44,860 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader populateClassTimingDropDowns starts*********
+2020-07-05 11:41:44,860 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader prepareStaticJsonForDropDowns starts*********
+2020-07-05 11:41:44,861 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader prepareStaticJsonForDropDowns ends*********
+2020-07-05 11:41:44,863 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader populateClassTimingDropDowns ends*********
+2020-07-05 11:41:44,863 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader populateMilitaryAffiDropDowns starts*********
+2020-07-05 11:41:44,863 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader prepareStaticJsonForDropDowns starts*********
+2020-07-05 11:41:44,865 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader prepareStaticJsonForDropDowns ends*********
+2020-07-05 11:41:44,865 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader populateMilitaryAffiDropDowns ends*********
+2020-07-05 11:41:44,865 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader loadLandingPageDropDowns ends*********
+2020-07-05 11:41:44,865 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader prepareStaticJsonForDropDowns starts*********
+2020-07-05 11:41:45,000 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader prepareStaticJsonForDropDowns ends*********
+2020-07-05 11:41:45,001 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader prepareLandingPageDropDowns ends*********
+2020-07-05 11:41:45,213 INFO com.techmania.remoteservice.RemoteserviceApplication [main] Starting RemoteserviceApplication on DESKTOP-IBCBLCE with PID 4984 (D:\Development\workspace\freelancing\edudir\api\remoteservice\target\classes started by dell in D:\Development\workspace\freelancing\edudir\api\remoteservice)
+2020-07-05 11:41:45,214 INFO com.techmania.remoteservice.RemoteserviceApplication [main] No active profile set, falling back to default profiles: default
+2020-07-05 11:41:49,648 INFO com.techmania.remoteservice.RemoteserviceApplication [main] Started RemoteserviceApplication in 5.323 seconds (JVM running for 6.469)
+2020-07-05 11:41:53,198 INFO com.techmania.remoteservice.RemoteserviceApplication [main] ************RemoteserviceApplication ends*******
+2020-07-05 11:43:18,561 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader prepareLandingPageDropDowns starts*********
+2020-07-05 11:43:18,569 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader deleteFileIfExist starts*********
+2020-07-05 11:43:18,570 ERROR com.techmania.remoteservice.util.StaticCacheLoader [main] ************File is Successsfully deleted*********
+2020-07-05 11:43:18,571 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader deleteFileIfExist ends*********
+2020-07-05 11:43:18,572 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader loadLandingPageDropDowns starts*********
+2020-07-05 11:43:18,572 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader populateEducationLevelDropDowns starts*********
+2020-07-05 11:43:18,572 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader prepareStaticJsonForDropDowns starts*********
+2020-07-05 11:43:18,590 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader prepareStaticJsonForDropDowns ends*********
+2020-07-05 11:43:18,591 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader populateEducationLevelDropDowns ends*********
+2020-07-05 11:43:18,591 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader populateGraducationYearDropDowns starts*********
+2020-07-05 11:43:18,591 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader prepareStaticJsonForDropDowns starts*********
+2020-07-05 11:43:18,595 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader prepareStaticJsonForDropDowns ends*********
+2020-07-05 11:43:18,595 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader populateGraducationYearDropDowns ends*********
+2020-07-05 11:43:18,595 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader populateCountryDropDowns starts*********
+2020-07-05 11:43:18,595 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader prepareStaticJsonForDropDowns starts*********
+2020-07-05 11:43:18,603 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader prepareStaticJsonForDropDowns ends*********
+2020-07-05 11:43:18,603 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader populateCountryDropDowns ends*********
+2020-07-05 11:43:18,604 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader populateStateDropDowns starts*********
+2020-07-05 11:43:18,604 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader prepareStaticJsonForDropDowns starts*********
+2020-07-05 11:43:18,607 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader prepareStaticJsonForDropDowns ends*********
+2020-07-05 11:43:18,607 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader populateStateDropDowns ends*********
+2020-07-05 11:43:18,607 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader populateClassTimingDropDowns starts*********
+2020-07-05 11:43:18,607 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader prepareStaticJsonForDropDowns starts*********
+2020-07-05 11:43:18,608 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader prepareStaticJsonForDropDowns ends*********
+2020-07-05 11:43:18,608 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader populateClassTimingDropDowns ends*********
+2020-07-05 11:43:18,608 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader populateMilitaryAffiDropDowns starts*********
+2020-07-05 11:43:18,608 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader prepareStaticJsonForDropDowns starts*********
+2020-07-05 11:43:18,610 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader prepareStaticJsonForDropDowns ends*********
+2020-07-05 11:43:18,610 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader populateMilitaryAffiDropDowns ends*********
+2020-07-05 11:43:18,610 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader loadLandingPageDropDowns ends*********
+2020-07-05 11:43:18,610 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader prepareStaticJsonForDropDowns starts*********
+2020-07-05 11:43:18,772 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader prepareStaticJsonForDropDowns ends*********
+2020-07-05 11:43:18,772 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader prepareLandingPageDropDowns ends*********
+2020-07-05 11:43:18,987 INFO com.techmania.remoteservice.RemoteserviceApplication [main] Starting RemoteserviceApplication on DESKTOP-IBCBLCE with PID 8764 (D:\Development\workspace\freelancing\edudir\api\remoteservice\target\classes started by dell in D:\Development\workspace\freelancing\edudir\api\remoteservice)
+2020-07-05 11:43:18,988 INFO com.techmania.remoteservice.RemoteserviceApplication [main] No active profile set, falling back to default profiles: default
+2020-07-05 11:43:23,013 INFO com.techmania.remoteservice.RemoteserviceApplication [main] Started RemoteserviceApplication in 4.985 seconds (JVM running for 6.6)
+2020-07-05 11:43:29,555 INFO com.techmania.remoteservice.RemoteserviceApplication [main] ************RemoteserviceApplication ends*******
+2020-07-05 11:46:43,820 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader prepareLandingPageDropDowns starts*********
+2020-07-05 11:46:43,831 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader deleteFileIfExist starts*********
+2020-07-05 11:46:43,832 ERROR com.techmania.remoteservice.util.StaticCacheLoader [main] ************File is Successsfully deleted*********
+2020-07-05 11:46:43,832 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader deleteFileIfExist ends*********
+2020-07-05 11:46:43,833 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader loadLandingPageDropDowns starts*********
+2020-07-05 11:46:43,833 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader populateEducationLevelDropDowns starts*********
+2020-07-05 11:46:43,833 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader prepareStaticJsonForDropDowns starts*********
+2020-07-05 11:46:43,850 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader prepareStaticJsonForDropDowns ends*********
+2020-07-05 11:46:43,851 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader populateEducationLevelDropDowns ends*********
+2020-07-05 11:46:43,851 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader populateGraducationYearDropDowns starts*********
+2020-07-05 11:46:43,851 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader prepareStaticJsonForDropDowns starts*********
+2020-07-05 11:46:43,858 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader prepareStaticJsonForDropDowns ends*********
+2020-07-05 11:46:43,859 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader populateGraducationYearDropDowns ends*********
+2020-07-05 11:46:43,859 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader populateCountryDropDowns starts*********
+2020-07-05 11:46:43,859 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader prepareStaticJsonForDropDowns starts*********
+2020-07-05 11:46:43,868 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader prepareStaticJsonForDropDowns ends*********
+2020-07-05 11:46:43,869 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader populateCountryDropDowns ends*********
+2020-07-05 11:46:43,869 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader populateStateDropDowns starts*********
+2020-07-05 11:46:43,869 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader prepareStaticJsonForDropDowns starts*********
+2020-07-05 11:46:43,872 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader prepareStaticJsonForDropDowns ends*********
+2020-07-05 11:46:43,872 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader populateStateDropDowns ends*********
+2020-07-05 11:46:43,872 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader populateClassTimingDropDowns starts*********
+2020-07-05 11:46:43,872 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader prepareStaticJsonForDropDowns starts*********
+2020-07-05 11:46:43,875 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader prepareStaticJsonForDropDowns ends*********
+2020-07-05 11:46:43,875 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader populateClassTimingDropDowns ends*********
+2020-07-05 11:46:43,875 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader populateMilitaryAffiDropDowns starts*********
+2020-07-05 11:46:43,875 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader prepareStaticJsonForDropDowns starts*********
+2020-07-05 11:46:43,877 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader prepareStaticJsonForDropDowns ends*********
+2020-07-05 11:46:43,877 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader populateMilitaryAffiDropDowns ends*********
+2020-07-05 11:46:43,878 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader loadLandingPageDropDowns ends*********
+2020-07-05 11:46:43,878 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader prepareStaticJsonForDropDowns starts*********
+2020-07-05 11:46:44,045 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader prepareStaticJsonForDropDowns ends*********
+2020-07-05 11:46:44,046 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader prepareLandingPageDropDowns ends*********
+2020-07-05 11:46:44,352 INFO com.techmania.remoteservice.RemoteserviceApplication [main] Starting RemoteserviceApplication on DESKTOP-IBCBLCE with PID 9808 (D:\Development\workspace\freelancing\edudir\api\remoteservice\target\classes started by dell in D:\Development\workspace\freelancing\edudir\api\remoteservice)
+2020-07-05 11:46:44,353 INFO com.techmania.remoteservice.RemoteserviceApplication [main] No active profile set, falling back to default profiles: default
+2020-07-05 11:46:48,170 INFO com.techmania.remoteservice.RemoteserviceApplication [main] Started RemoteserviceApplication in 4.851 seconds (JVM running for 5.87)
+2020-07-05 11:46:52,215 INFO com.techmania.remoteservice.RemoteserviceApplication [main] ************RemoteserviceApplication ends*******
+2020-07-05 11:52:11,919 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader prepareLandingPageDropDowns starts*********
+2020-07-05 11:52:11,928 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader deleteFileIfExist starts*********
+2020-07-05 11:52:11,929 ERROR com.techmania.remoteservice.util.StaticCacheLoader [main] ************File is Successsfully deleted*********
+2020-07-05 11:52:11,929 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader deleteFileIfExist ends*********
+2020-07-05 11:52:11,931 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader loadLandingPageDropDowns starts*********
+2020-07-05 11:52:11,931 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader populateEducationLevelDropDowns starts*********
+2020-07-05 11:52:11,931 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader prepareStaticJsonForDropDowns starts*********
+2020-07-05 11:52:11,947 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader prepareStaticJsonForDropDowns ends*********
+2020-07-05 11:52:11,948 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader populateEducationLevelDropDowns ends*********
+2020-07-05 11:52:11,948 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader populateGraducationYearDropDowns starts*********
+2020-07-05 11:52:11,948 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader prepareStaticJsonForDropDowns starts*********
+2020-07-05 11:52:11,951 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader prepareStaticJsonForDropDowns ends*********
+2020-07-05 11:52:11,952 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader populateGraducationYearDropDowns ends*********
+2020-07-05 11:52:11,952 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader populateCountryDropDowns starts*********
+2020-07-05 11:52:11,952 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader prepareStaticJsonForDropDowns starts*********
+2020-07-05 11:52:11,964 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader prepareStaticJsonForDropDowns ends*********
+2020-07-05 11:52:11,964 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader populateCountryDropDowns ends*********
+2020-07-05 11:52:11,964 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader populateStateDropDowns starts*********
+2020-07-05 11:52:11,964 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader prepareStaticJsonForDropDowns starts*********
+2020-07-05 11:52:11,968 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader prepareStaticJsonForDropDowns ends*********
+2020-07-05 11:52:11,968 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader populateStateDropDowns ends*********
+2020-07-05 11:52:11,968 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader populateClassTimingDropDowns starts*********
+2020-07-05 11:52:11,968 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader prepareStaticJsonForDropDowns starts*********
+2020-07-05 11:52:11,969 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader prepareStaticJsonForDropDowns ends*********
+2020-07-05 11:52:11,969 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader populateClassTimingDropDowns ends*********
+2020-07-05 11:52:11,969 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader populateMilitaryAffiDropDowns starts*********
+2020-07-05 11:52:11,969 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader prepareStaticJsonForDropDowns starts*********
+2020-07-05 11:52:11,970 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader prepareStaticJsonForDropDowns ends*********
+2020-07-05 11:52:11,971 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader populateMilitaryAffiDropDowns ends*********
+2020-07-05 11:52:11,971 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader loadLandingPageDropDowns ends*********
+2020-07-05 11:52:11,971 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader prepareStaticJsonForDropDowns starts*********
+2020-07-05 11:52:12,126 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader prepareStaticJsonForDropDowns ends*********
+2020-07-05 11:52:12,126 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader prepareLandingPageDropDowns ends*********
+2020-07-05 11:52:12,350 INFO com.techmania.remoteservice.RemoteserviceApplication [main] Starting RemoteserviceApplication on DESKTOP-IBCBLCE with PID 10984 (D:\Development\workspace\freelancing\edudir\api\remoteservice\target\classes started by dell in D:\Development\workspace\freelancing\edudir\api\remoteservice)
+2020-07-05 11:52:12,351 INFO com.techmania.remoteservice.RemoteserviceApplication [main] No active profile set, falling back to default profiles: default
+2020-07-05 11:52:16,674 INFO com.techmania.remoteservice.RemoteserviceApplication [main] Started RemoteserviceApplication in 5.243 seconds (JVM running for 6.494)
+2020-07-05 11:52:37,495 INFO com.techmania.remoteservice.RemoteserviceApplication [main] ************RemoteserviceApplication ends*******
+2020-07-05 11:55:53,687 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader prepareLandingPageDropDowns starts*********
+2020-07-05 11:55:53,693 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader deleteFileIfExist starts*********
+2020-07-05 11:55:53,694 ERROR com.techmania.remoteservice.util.StaticCacheLoader [main] ************File is Successsfully deleted*********
+2020-07-05 11:55:53,695 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader deleteFileIfExist ends*********
+2020-07-05 11:55:53,696 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader loadLandingPageDropDowns starts*********
+2020-07-05 11:55:53,696 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader populateEducationLevelDropDowns starts*********
+2020-07-05 11:55:53,696 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader prepareStaticJsonForDropDowns starts*********
+2020-07-05 11:55:53,714 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader prepareStaticJsonForDropDowns ends*********
+2020-07-05 11:55:53,714 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader populateEducationLevelDropDowns ends*********
+2020-07-05 11:55:53,714 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader populateGraducationYearDropDowns starts*********
+2020-07-05 11:55:53,715 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader prepareStaticJsonForDropDowns starts*********
+2020-07-05 11:55:53,718 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader prepareStaticJsonForDropDowns ends*********
+2020-07-05 11:55:53,718 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader populateGraducationYearDropDowns ends*********
+2020-07-05 11:55:53,718 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader populateCountryDropDowns starts*********
+2020-07-05 11:55:53,718 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader prepareStaticJsonForDropDowns starts*********
+2020-07-05 11:55:53,729 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader prepareStaticJsonForDropDowns ends*********
+2020-07-05 11:55:53,729 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader populateCountryDropDowns ends*********
+2020-07-05 11:55:53,730 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader populateStateDropDowns starts*********
+2020-07-05 11:55:53,730 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader prepareStaticJsonForDropDowns starts*********
+2020-07-05 11:55:53,732 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader prepareStaticJsonForDropDowns ends*********
+2020-07-05 11:55:53,733 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader populateStateDropDowns ends*********
+2020-07-05 11:55:53,735 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader populateClassTimingDropDowns starts*********
+2020-07-05 11:55:53,736 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader prepareStaticJsonForDropDowns starts*********
+2020-07-05 11:55:53,737 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader prepareStaticJsonForDropDowns ends*********
+2020-07-05 11:55:53,737 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader populateClassTimingDropDowns ends*********
+2020-07-05 11:55:53,737 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader populateMilitaryAffiDropDowns starts*********
+2020-07-05 11:55:53,737 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader prepareStaticJsonForDropDowns starts*********
+2020-07-05 11:55:53,738 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader prepareStaticJsonForDropDowns ends*********
+2020-07-05 11:55:53,739 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader populateMilitaryAffiDropDowns ends*********
+2020-07-05 11:55:53,739 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader loadLandingPageDropDowns ends*********
+2020-07-05 11:55:53,739 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader prepareStaticJsonForDropDowns starts*********
+2020-07-05 11:55:53,887 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader prepareStaticJsonForDropDowns ends*********
+2020-07-05 11:55:53,887 INFO com.techmania.remoteservice.util.StaticCacheLoader [main] ************StaticCacheLoader prepareLandingPageDropDowns ends*********
+2020-07-05 11:55:54,087 INFO com.techmania.remoteservice.RemoteserviceApplication [main] Starting RemoteserviceApplication on DESKTOP-IBCBLCE with PID 9456 (D:\Development\workspace\freelancing\edudir\api\remoteservice\target\classes started by dell in D:\Development\workspace\freelancing\edudir\api\remoteservice)
+2020-07-05 11:55:54,088 INFO com.techmania.remoteservice.RemoteserviceApplication [main] No active profile set, falling back to default profiles: default
+2020-07-05 11:55:57,729 INFO com.techmania.remoteservice.RemoteserviceApplication [main] Started RemoteserviceApplication in 4.485 seconds (JVM running for 5.884)
+2020-07-05 11:56:00,867 INFO com.techmania.remoteservice.RemoteserviceApplication [main] ************RemoteserviceApplication ends*******
+2020-07-05 15:26:33,571 DEBUG org.hibernate.validator.internal.xml.config.ValidationXmlParser [background-preinit] Trying to load META-INF/validation.xml for XML based Validator configuration.
+2020-07-05 15:26:33,754 INFO com.techmania.remoteservice.RemoteserviceApplicationTests [main] Starting RemoteserviceApplicationTests on DESKTOP-IBCBLCE with PID 14924 (started by dell in D:\Development\workspace\freelancing\edudir\api\remoteservice)
+2020-07-05 15:26:33,756 INFO com.techmania.remoteservice.RemoteserviceApplicationTests [main] No active profile set, falling back to default profiles: default
+2020-07-05 15:26:37,710 INFO com.techmania.remoteservice.RemoteserviceApplicationTests [main] Started RemoteserviceApplicationTests in 4.42 seconds (JVM running for 7.17)
