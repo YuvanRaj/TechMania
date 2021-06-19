@@ -67,7 +67,6 @@ public class CsvComparator {
 		} catch (FileNotFoundException e) {
 			System.out.println(e.getMessage());
 		}
-
 	}
 
 	private static List<String> getCsvFileContent(String path) throws IOException {
